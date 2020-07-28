@@ -9,7 +9,7 @@ Come in, just don't fix the mess. :yum: :innocent:
 
 * :cheese: I'm from Minas Gerais (mineiro uai)
 * :heart:  I'm a beginner in web programming, but I soon learned to love JS, React and Node. 
-* :video_game: I love to play, books and learn new things.
+* :video_game: I love to play, cook, books and learn new things.
 
 <strong>Languages em tools:</strong>
 
