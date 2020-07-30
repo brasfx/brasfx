@@ -1,10 +1,11 @@
 
-:octocat::octocat::octocat: <strong>Welcome to my Github</strong> :octocat::octocat::octocat:<br><br>
-<img align="center" alt="Octocat" width="200px" src="https://user-images.githubusercontent.com/22081873/88879161-f4ac0000-d1ff-11ea-91d8-8a1c5814e458.png" /><br><br>
+<img align="right" alt="Octocat" width="300px" height="300px" src="https://user-images.githubusercontent.com/22081873/88879161-f4ac0000-d1ff-11ea-91d8-8a1c5814e458.png" /><br>
+
+:octocat::octocat::octocat:<strong>Welcome to my Github</strong> :octocat::octocat::octocat:<br>
 Hi, I'm Davi :wave: <br>
 I'am a Brazilian student of computer engineering 
 and an enthusiast in learning new technologies. :nerd_face: :computer: :brazil: <br>
-Come in, just don't fix the mess. :yum: :innocent: 
+Come in, just don't look at the mess. :yum: :innocent: 
 
 
 <strong>More about me:</strong>
