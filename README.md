@@ -5,7 +5,7 @@
 Hi, I'm Davi :wave: <br>
 I'am a Brazilian student of computer engineering 
 and an enthusiast in learning new technologies. :nerd_face: :computer: :brazil: <br>
-Come in, just don't look at the mess. :yum: :innocent: 
+Come in, just excuse the mess. :yum: :innocent: 
 
 
 <strong>More about me:</strong>
