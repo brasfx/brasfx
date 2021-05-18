@@ -41,5 +41,8 @@ Come in, just excuse the mess. :yum: :innocent:
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
+<br></br>
+![brasfx GitHub stats](https://github-readme-stats.vercel.app/api?username=brasfx&show_icons=true&theme=dracula) 
+
 
 
