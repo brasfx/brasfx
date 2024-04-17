@@ -3,7 +3,7 @@
 
 :octocat::octocat::octocat: <strong>Welcome to my Github</strong> :octocat::octocat::octocat:<br><br>
 Hi, I'm Davi :wave: <br>
-I'am a Brazilian student of computer engineering 
+I'm a Brazilian computer engineer. I currently work in web development as a FrontEnd Software Engineer.
 and an enthusiast in learning new technologies. :nerd_face: :computer: :brazil: <br>
 Come in, just excuse the mess. :yum: :innocent: 
 
@@ -17,6 +17,7 @@ Come in, just excuse the mess. :yum: :innocent:
 <strong>Languages em tools:</strong>
 
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
