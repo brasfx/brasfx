@@ -3,7 +3,7 @@
 
 :octocat::octocat::octocat: <strong>Welcome to my Github</strong> :octocat::octocat::octocat:<br><br>
 Hi, I'm Davi :wave: <br>
-I'm a Brazilian computer engineer. I currently work in web development as a FrontEnd Software Engineer.
+I'm a Brazilian computer engineer. I currently work in web development as a FrontEnd Software Engineer
 and an enthusiast in learning new technologies. :nerd_face: :computer: :brazil: <br>
 Come in, just excuse the mess. :yum: :innocent: 
 
