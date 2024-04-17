@@ -11,7 +11,7 @@ Come in, just excuse the mess. :yum: :innocent:
 <strong>More about me:</strong>
 
 * :cheese: I'm from Minas Gerais (mineiro uai)
-* :video_game: I love to play, cook, books and learn new things.
+* :video_game: I love to play video games, cook, books and learn new things.
 
 <strong>Languages em tools:</strong>
 
