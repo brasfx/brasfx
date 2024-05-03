@@ -41,7 +41,7 @@ Come in, just excuse the mess. :yum: :innocent:
 </a>
 
 <br></br>
-![brasfx GitHub stats](https://github-readme-stats.vercel.app/api?username=brasfx&show_icons=true&theme=dracula) 
+![brasfx GitHub stats](https://github-readme-stats.vercel.app/api?username=brasfx&locale=pt-br&hide=contribs&include_all_commits=true&show_icons=true&rank_icon=github&theme=tokyonight) 
 
 
 
