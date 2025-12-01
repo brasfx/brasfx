@@ -84,7 +84,6 @@ Aplicação web de notícias com:
 </div>
 
 ## 💼 Disponível para Freelance
-**Plataformas:** [99Freelas](https://99freelas.com.br/freelancer/brasfx) | [Workana](https://workana.com) | [Upwork](https://upwork.com)
 
 **Contato:** in/davilopesribeiro | engcomp.daviribeiro@gmail.com
 
