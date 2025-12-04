@@ -4,7 +4,7 @@
 [![Vercel](https://img.shields.io/badge/Vercel-Deployed-000000?style=flat&logo=vercel&logoColor=white)](https://playarchive.dlrdev.com.br)
 [![Next.js](https://img.shields.io/badge/Next.js-15+-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org)
 
-Desenvolvedor **front-end web** especializado em aplicações modernas com React/Next.js. Construo plataformas web interativas, como **PlayArchive** — biblioteca de jogos com integração RAWG API, i18n PT/EN.   
+Desenvolvedor **front-end web** especializado em aplicações modernas com React/Next.js. Construo plataformas web interativas, como **Play Archive** — biblioteca de jogos com integração RAWG API, i18n PT/EN.   
 
 Quer saber mais sobre mim ? [![Portfolio](https://img.shields.io/badge/Visitar%20Portfólio-000?logo=rocket&logoColor=white)](https://davi@dlrdev.com.br)
 
@@ -62,7 +62,7 @@ Quer saber mais sobre mim ? [![Portfolio](https://img.shields.io/badge/Visitar%2
 
 ## ✨ Projetos em Destaque
 
-### [PlayArchive](https://github.com/brasfx/PlayArchive)
+### [Play Archive](https://github.com/brasfx/PlayArchive)
 **Plataforma web** para organizar biblioteca de jogos com:
 - Next.js 16+ App Router + TypeScript
 - Integração RAWG API + Google Translate
